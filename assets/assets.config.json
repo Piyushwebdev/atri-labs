@@ -1,0 +1,74 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "man.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "logo1.png": {
+    "mime": "image/png"
+  },
+  "logo2.png": {
+    "mime": "image/png"
+  },
+  "logo3.png": {
+    "mime": "image/png"
+  },
+  "logo4.png": {
+    "mime": "image/png"
+  },
+  "project1.jfif": {
+    "mime": "image/jpeg"
+  },
+  "prroject2.jfif": {
+    "mime": "image/jpeg"
+  },
+  "project3.jfif": {
+    "mime": "image/jpeg"
+  },
+  "about1.jpg": {
+    "mime": "image/jpeg"
+  },
+  "about2.jpg": {
+    "mime": "image/jpeg"
+  },
+  "about3.webp": {
+    "mime": "image/webp"
+  },
+  "about4.jpg": {
+    "mime": "image/jpeg"
+  },
+  "about2.webp": {
+    "mime": "image/webp"
+  },
+  "education1.svg": {
+    "mime": "image/svg+xml"
+  },
+  "education1.png": {
+    "mime": "image/png"
+  },
+  "education2.png": {
+    "mime": "image/png"
+  },
+  "education3.png": {
+    "mime": "image/png"
+  },
+  "testimonial.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "icon.png": {
+    "mime": "image/png"
+  },
+  "aboutimage1.png": {
+    "mime": "image/png"
+  },
+  "aboutimage2.png": {
+    "mime": "image/png"
+  },
+  "aboutimage3.png": {
+    "mime": "image/png"
+  },
+  "aboutimage4.png": {
+    "mime": "image/png"
+  }
+}

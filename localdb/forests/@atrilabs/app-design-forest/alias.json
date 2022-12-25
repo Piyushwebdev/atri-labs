@@ -1,0 +1,18 @@
+{
+  "Button": 6,
+  "Countdown": 1,
+  "Dropdown": 11,
+  "Icon": 1,
+  "AreaChart": 1,
+  "BarChart": 1,
+  "Modal": 1,
+  "Flex": 139,
+  "Div": 228,
+  "TextBox": 143,
+  "Link": 20,
+  "Image": 32,
+  "Testimonial": 4,
+  "Carousel": 1,
+  "Menu": 3,
+  "Overlay": 2
+}
